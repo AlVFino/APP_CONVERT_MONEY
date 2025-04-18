@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660094311643",
+    "project_id": "app-convert-money",
+    "storage_bucket": "app-convert-money.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660094311643:android:9a062e807ed316a47680fe",
+        "android_client_info": {
+          "package_name": "com.example.app_convert_money"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC3f_nOA7AkZ1FpzYeWKMtt-gW8kM2T9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
