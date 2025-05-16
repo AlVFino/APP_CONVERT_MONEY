@@ -33,9 +33,9 @@ class HistoryPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const primaryColor = Color(0xFF6CBA7C);
-    const bgColor = Color(0xFFF4F4F4);
-    const cardColor = Color(0xFFFFFFFF);
+    const primaryColor = Color(0xFF6C63FF); // Modern purple
+    const cardColor = Color.fromARGB(255, 255, 255, 255); // Darker purple
+    const bgColor = Color(0xFFF8F9FA); // Light background
 
     return Scaffold(
       backgroundColor: bgColor,

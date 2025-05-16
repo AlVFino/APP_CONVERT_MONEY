@@ -1,0 +1,2 @@
+C:/vscode/app_convert_money/android/app/.cxx/Debug/5i32455d/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/vscode/app_convert_money/android/app/.cxx/Debug/5i32455d/armeabi-v7a/CMakeFiles/rebuild_cache.dir
